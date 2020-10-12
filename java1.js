@@ -1,5 +1,4 @@
 
-
 let kwesi=document.getElementsByName(css);
 let mensa=document.getElementById(apply);   
 function benjamin ()
